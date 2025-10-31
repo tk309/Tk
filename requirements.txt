@@ -1,3 +1,8 @@
 streamlit
-pandas
+torch
+torchvision
+pennylane
+pillow
+matplotlib
 numpy
+gdown
